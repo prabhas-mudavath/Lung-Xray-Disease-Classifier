@@ -1,7 +1,14 @@
 
 # Lung-Xray-Disease-Classifier
+
+
 Lung disease segmentation and classification using UNeXt and MobileNetV2 on PadChest X-rays. Manually created lung masks from Roboflow improve accuracy and explainability by focusing the classifier on precise lung regions instead of full chest images.
 #  Lung Disease Segmentation and Classification using UNeXt & MobileNetV2 (PadChest Dataset)
+## Dataset
+The PadChest dataset and manually annotated lung masks are not included
+in this repository due to size constraints.
+
+They were used only for academic research purposes during the internship.
 
 ##  Overview
 This project focuses on improving **lung disease detection** in chest X-rays by combining **manual lung segmentation** with **MobileNetV2-based classification**.  
